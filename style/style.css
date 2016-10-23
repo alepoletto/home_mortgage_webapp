@@ -1,0 +1,24 @@
+
+.search {
+  text-align: center;
+  background-color: #00ace4  !important;
+
+}
+
+.search input {
+  color: white !important;
+}
+
+
+.small-space {
+  margin-top: 20px;
+}
+
+.small-tile {
+  margin-top: 5px;
+  font-size: 11px;
+}
+
+.small-value {
+   font-weight: bold;
+}
