@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "repository": "",
+  "engines": {
+   "node": "4.6.1"
+ },1
   "scripts": {
     "dev": "node server.js",
     "postinstall": "webpack -p",
@@ -26,6 +29,7 @@
     "jquery": "^2.2.1",
     "jsdom": "^8.1.0",
     "mocha": "^2.4.5",
+    "node": "0.0.0",
     "node-sass": "^3.10.1",
     "postcss-loader": "^1.0.0",
     "react-addons-test-utils": "^0.14.7",
