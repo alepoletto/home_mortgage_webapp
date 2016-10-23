@@ -36,11 +36,11 @@
     "sass-loader": "^4.0.2",
     "style-loader": "^0.13.1",
     "toolbox-loader": "0.0.3",
-    "webpack": "^1.13.2",
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
     "axios": "^0.15.2",
+      "webpack": "^1.13.2",
     "babel-preset-stage-1": "^6.1.18",
     "express": "^4.14.0",
     "flexboxgrid": "^6.3.1",
